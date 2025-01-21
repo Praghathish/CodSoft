@@ -106,6 +106,19 @@
         </div>
     </section>
 
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="C:\Users\Admin\Downloads\Cdt. Praghathish s.pdf" download>Download My Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+            <li>Email: 23am045@kpriet.ac.in</li>
+            <li>Phone: 9998887654</li>
+        </ul>
+    </section>
+
     
 </body>
 </html>
