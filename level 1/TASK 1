@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header p {
+            font-style: italic;
+            margin: 0;
+        }
+        section {
+            padding: 2rem;
+        }
+        #about img {
+            max-width: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+        #skills ul {
+            list-style: none;
+            padding: 0;
+        }
+        #skills ul li {
+            background: #f4f4f4;
+            margin: 0.5rem 0;
+            padding: 0.5rem;
+            border-radius: 5px;
+        }
+        #projects .project {
+            border: 1px solid #ddd;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 5px;
+        }
+        #resume a {
+            display: inline-block;
+            background: #007BFF;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        #resume a:hover {
+            background: #0056b3;
+        }
+        #contact ul {
+            list-style: none;
+            padding: 0;
+        }
+        #contact ul li {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cdt.PRAGHATHISH S</h1>
+        <p>NCC cadet,Sports Shooter,AIML student</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="C:\Users\Admin\Pictures\Screenshots\Screenshot (1).png" alt="Your Photo">
+        <p>JAI HIND!! I'm a MARKSMAN Cadet, skilled in 50m SPORTS SHOOTING. I have one year of experience in NCC.My passion lies in mastering precision and discipline through sports shooting. As an NCC cadet, I strive to achieve excellence in marksmanship and inspire others with determination and focus.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Sports shooting(50 meter)</li>
+            <li>DRILL</li>
+            <li>Horse ridding</li>
+            <li>Swimming</li>
+        </ul>
+    </section>
+
+    <section id="National level NCC camps attended">
+        <h2>National level NCC camps attended</h2>
+        <div class="National level NCC camps attended">
+            <h3>33rd All India G.V Mavalankar Sports Shooting Championship</h3>
+            <p>BRONZE 🥉 medal at 50 meter open sight rifle.</p>
+            <img src="C:\Users\Admin\Downloads\IMG-20241126-WA0003.jpg" style="width:100%; max-width:400px;">
+
+        </div>
+        <div class="National level NCC camps attended">
+            <h3>All India Inter-Directrate Sports Shooting Championship-2024</h3>
+            <p>Directrate overall second place at 50 meter open sight rifle.</p>
+            <img src="C:\Users\Admin\Downloads\SSN_5429@-1848595817.JPG" alt="IDSSC-2024 Photo" style="width:100%; max-width:400px;">
+        </div>
+    </section>
+
+    
+</body>
+</html>
